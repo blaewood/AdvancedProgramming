@@ -1,0 +1,3 @@
+anaconda python으로 32비트 가상환경을 설정해야합니다.
+python Main_Window.py 혹은 실행 불가 시
+python3 Main_Window.py를 통해 실행하면됩니다.
